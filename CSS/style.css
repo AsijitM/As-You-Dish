@@ -1,0 +1,38 @@
+.img{
+    width: 95%;
+}
+.nav-link{
+    color: #DF5920 !important;
+}
+.navbar-brand{
+    color: #DF5920 !important;
+}
+
+#title{
+    background-image:radial-gradient(circle,rgb(88, 88, 88),black)!important;
+}
+.img3{
+    padding:3rem 3rem;
+}
+.bg{
+    background-color: #e4f1ff !important;
+}
+
+.showcase-main{
+    background-image: radial-gradient()
+}
+.showcase1{
+
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.showcase{
+    padding:3rem;
+    text-align: center;
+
+}
+.animation1{
+    transform: scale(1);
+    transition: all ease .8s;
+}
