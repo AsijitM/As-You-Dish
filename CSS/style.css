@@ -36,10 +36,10 @@
 .showcase {
   padding: 3rem;
   text-align: center;
+
 }
-.animation1 {
-  transform: scale(1);
-  transition: all ease 0.8s;
+.img-circle{
+    border-radius: 50% !important;
 }
 
 /* review */
